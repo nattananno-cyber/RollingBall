@@ -1,4 +1,4 @@
-<img width="736" height="1103" alt="image" src="https://github.com/user-attachments/assets/ee96f05c-efc2-4e2e-9141-d83470adff0a" />คำสั่ง
+คำสั่ง
 1. ให้นิสิตสร้างบัญชี GitHub ของตัวเองโดยใช้เมล์ @ku 
 2. ให้ทำการ Fork repo ต่อไปนี้ https://github.com/KSNTCL/RollingBall
 3. ให้นิสิตสร้างอนิเมชั่นลูกบอลกลิ้งตามตัวอย่างในรูปโดยที่
